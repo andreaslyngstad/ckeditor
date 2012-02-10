@@ -2,9 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f118730-8414-4b0d-8613-a2984a726451" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ckeditor.iml" afterPath="$PROJECT_DIR$/.idea/ckeditor.iml" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\dialogs\smiley.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\angel_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\angry_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\broken_heart.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\confused_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\cry_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\devil_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\embaressed_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\envelope.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\heart.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\kiss.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\lightbulb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\omg_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\regular_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\sad_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\shades_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\teeth_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\thumbs_down.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\thumbs_up.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\tounge_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\whatchutalkingabout_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\smiley\images\wink_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\tableresize\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\tabletools\dialogs\tableCell.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\dialogs\uicolor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\lang\en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\lang\he.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\uicolor.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\yui\assets\hue_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\yui\assets\hue_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\yui\assets\picker_mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\yui\assets\picker_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\yui\assets\yui.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andreas\RubymineProjects\ckeditor\vendor\assets\javascripts\ckeditor\plugins\uicolor\yui\yui.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/ckeditor/ckeditor.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/ckeditor/ckeditor.js" />
     </list>
     <ignored path="ckeditor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,6 +159,146 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ckeditor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="colordialog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dialogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -238,14 +411,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24327177" sideWeight="0.670282" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24327177" sideWeight="0.670282" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
